@@ -17,5 +17,9 @@ This game has multiple levels that challenge the player to avoid obstacles and o
 The objective of the game is to <ins>reach the end flag and collect as many apples as possible on the way to the end flag</ins>.
 The player only has one life each map so if the player dies then the level will reset to the beginning.
 
+### Image of Game
+![Screen](https://github.com/Hvang0702/PixelAdventure/assets/120008455/6038b3ca-8300-4fee-86ef-b3dbba440319)
+
+
 
 
